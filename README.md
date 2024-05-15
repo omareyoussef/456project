@@ -1,9 +1,9 @@
 CECS 456 Project
 Spring 2024
 
-########################################
- Animal Image Classification DL Project
-########################################
+***************************************
+Animal Image Classification DL Project
+***************************************
 
 This project involves designing and training two deep learning models for animal image classification using the "Animals-10" dataset.
 
